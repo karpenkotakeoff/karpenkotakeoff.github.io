@@ -1,0 +1,16 @@
+.round {
+   border-radius: 50%; /* Превращаем в круг */
+    border: solid white;
+  }
+
+.header {
+    background-image: url("email-pattern.png");
+}
+
+.body {
+    background-image: url("triangle-mosaic.png");
+}
+
+.skills {
+    padding: 5px;
+}
