@@ -4,11 +4,11 @@
   }
 
 .header {
-    background-image: url("email-pattern.png");
+    background-image: url("header_background.png");
 }
 
 .body {
-    background-image: url("triangle-mosaic.png");
+    background-image: url("body_background.png");
 }
 
 .skills {
