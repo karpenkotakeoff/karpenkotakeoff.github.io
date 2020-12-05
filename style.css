@@ -1,20 +1,4 @@
 .round {
-   border-radius: 50%; /* Превращаем в круг */
+   border-radius: 50%;
     border: solid white;
   }
-
-.header {
-    background-image: url("header_background.png");
-}
-
-.body {
-    background-image: url("body_background.png");
-}
-
-.skills {
-    padding: 5px;
-}
-
-.head_links {
-    color: black;
-}
